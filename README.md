@@ -6,7 +6,7 @@ This repository fine-tunes a pre-trained LLaMA 3.2 model (3B/1B Instruct) to cla
 
 !pip install transformers datasets torch scikit-learn pandas
 
-# Steps to Run
+## Steps to Run
 
 1. Prepare your dataset: Place your dataset in a CSV format and update the code to read the dataset (you can adjust the data loading part if necessary).
 
